@@ -8,3 +8,13 @@
 8,'Machine Learning',2020
 9,'IoT',2018
 10,'Lap Trinh Web Voi ASP.NET Core',2018
+101,'Lap Trinh Big Data voi Hive',2026
+102,'Huong Dan Su Dung Hadoop',2026
+103,'Khai Pha Du Lieu Kiem Tra',2026
+104,'Co So Du Lieu NoSQL',2025
+105,'Kien Truc He Thong Phan Tan',2025
+106,'Quan Tri He Thong Linux',2024
+107,'Toi UU Hoa Kien Truc MapReduce',2024
+108,'Phan Tich Du Lieu Lon',2023
+109,'Hoc May Co Ban',2023
+110,'An Toan Thong Tin',2022
